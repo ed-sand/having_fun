@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-'''A simple cronometer implementation'''
+'''A simple clock implementation'''
 
 from time import sleep
 
