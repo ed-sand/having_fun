@@ -8,7 +8,6 @@ from time import sleep
 init_hour = 0
 init_minute = 0
 init_second = 0
-init_decisecond = 0
 init_centisecond = 0
 
 
